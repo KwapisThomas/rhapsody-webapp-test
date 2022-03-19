@@ -22,52 +22,40 @@
 }
 
 #content1 {
-  background: #c9268d;
+  background: #2E2EFE;
   border-radius: var(--radius);
   padding-top: var(--padding);
   grid-area: content1;
-  display: grid;
-  grid-template-columns: repeat(3, 10px);
-  grid-template-rows: minmax(50px, 80px) 60px;
-  grid-gap: 0.2rem;
-  justify-content: center;
-  align-content: center;
-}
-#content1 > div {
-  background-color: white;
-}
-#nested1 {
-  grid-column: 1/4;
 }
 #content2 {
-  background: #d81b60;
+  background: #00BFFF;
   border-radius: var(--radius);
   padding-top: var(--padding);
   grid-area: content2;
 }
 
 #content3 {
-  background: #b31077;
+  background: #2E64FE;
   border-radius: var(--radius);
   padding-top: var(--padding);
   grid-area: content3;
 }
 
 #content4 {
-  background: #c51162;
+  background: #0000FF;
   border-radius: var(--radius);
   padding-top: var(--padding);
   grid-area: content4;
 }
 #content5 {
-  background: #bf1179;
+  background: #0101DF;
   border-radius: var(--radius);
   padding-top: var(--padding);
   grid-area: content5;
 }
 
 #content6 {
-  background: #880e4f;
+  background: #0404B4;
   border-radius: var(--radius);
   padding-top: var(--padding);
   grid-area: content6;
