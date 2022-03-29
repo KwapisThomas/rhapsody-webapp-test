@@ -1,0 +1,23 @@
+{
+  "name": "rhapsody-webapp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javadash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwapisThomas/rhapsody-webapp-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwapisThomas/rhapsody-webapp-test/issues"
+  },
+  "homepage": "https://github.com/KwapisThomas/rhapsody-webapp-test#readme",
+  "dependencies": {
+    "tedious": "^14.3.0"
+  }
+}

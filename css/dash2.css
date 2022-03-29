@@ -27,6 +27,7 @@
   padding-top: var(--padding);
   grid-area: content1;
 }
+
 #content2 {
   background: #00BFFF;
   border-radius: var(--radius);
